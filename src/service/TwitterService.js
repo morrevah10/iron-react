@@ -11,7 +11,7 @@ const Callback = () => {
             // Construct the request similar to how you did in TwitterLoginButton component
             // The request should include oauthToken, oauthVerifier, consumer key, and consumer secret
 
-            // After obtaining the access token, you can use it to make API requests to Twitter
+            /// After obtaining the access token, you can use it to make API requests to Twitter
 
             // Example request:
             /*
