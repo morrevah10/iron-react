@@ -1,6 +1,6 @@
 import React from "react"
 import OAuth from "oauth-1.0a"
-import crypto from "crypto";
+import crypto from "crypto-browserify";
 
 
 const TwitterLoginButton = () => {
