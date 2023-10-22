@@ -2,7 +2,9 @@ import React from "react"
 import OAuth from "oauth-1.0a"
 
 const TwitterLoginButton = () => {
+    console.log('click out')
   const handleTwitterLogin = async () => {
+    console.log('click in')
     const oauth = OAuth({
       consumer: {
         key: "c2qErGlO54ICSa3ZmE0JKYzMA",
